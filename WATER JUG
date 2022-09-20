@@ -30,7 +30,7 @@ def waterJugSolver(amt1, amt2):
     if visited[(amt1, amt2)] == False:
         print(amt1, amt2)
       
-        # Changes the boolean value of
+        #Changes the boolean value of
         # the combination as it is visited. 
         visited[(amt1, amt2)] = True
       
