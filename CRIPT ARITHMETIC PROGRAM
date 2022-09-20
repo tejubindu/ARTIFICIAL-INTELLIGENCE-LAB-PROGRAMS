@@ -1,3 +1,4 @@
+
 def solutions():
     # letters = ('s', 'e', 'n', 'd', 'm', 'o', 'r', 'y')
     all_solutions = list()
