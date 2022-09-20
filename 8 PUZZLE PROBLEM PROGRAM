@@ -1,4 +1,4 @@
-# Python code to display the way from the root  
+#Python code to display the way from the root  
 # node to the final destination node for N*N-1 puzzle  
 # algorithm by the help of Branch and Bound technique  
 # The answer assumes that the instance of the  
